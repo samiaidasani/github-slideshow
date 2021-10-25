@@ -2,4 +2,4 @@
 layout: slide
 title: "Welcome to our second slide"
 ---
-This is a commit practice
+This is a practice
